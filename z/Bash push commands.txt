@@ -1,0 +1,5 @@
+E:
+cd "E:\z\IEEE_GM_2027_link"
+git add .
+git commit -m "Update project"
+git push

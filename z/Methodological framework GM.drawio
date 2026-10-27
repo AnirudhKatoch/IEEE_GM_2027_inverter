@@ -1,0 +1,82 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="bUISpwBjdefO8w3UBz8R">
+    <mxGraphModel dx="680" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="720" pageHeight="100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;perimeterSpacing=2;imageAspect=1;backgroundOutline=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="100" width="450" x="270" as="geometry" />
+        </mxCell>
+        <mxCell id="2jaAVnirs4eBzSQX1P52-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;perimeterSpacing=2;imageAspect=1;backgroundOutline=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;strokeColor=default;" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font face=&quot;Calibri&quot; style=&quot;font-size: 10px;&quot;&gt;Instantaneous IGBT and diode currents from the operating point, giving switching and conduction losses.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="130" x="285" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2jaAVnirs4eBzSQX1P52-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;perimeterSpacing=2;imageAspect=1;backgroundOutline=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Calibri&quot;&gt;Coupled IGBT and diode Cauer network from junction through paste and heat sink to ambient, giving junction temperatures&lt;/font&gt;" vertex="1">
+          <mxGeometry height="65" width="130" x="435" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2jaAVnirs4eBzSQX1P52-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;perimeterSpacing=2;imageAspect=1;backgroundOutline=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Calibri&quot;&gt;Rainflow counting of junction temperature cycles, cycles to failure from lifeime model, damage by Miner&#39;s rule&lt;/font&gt;" vertex="1">
+          <mxGeometry height="65" width="130" x="585" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font face=&quot;Calibri&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Thermal Model&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="15" width="90" x="455" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font face=&quot;Calibri&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Loss Model&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="15" width="90" x="305" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font face=&quot;Calibri&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Damage Model&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="15" width="90" x="605" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Calibri&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0);&quot;&gt;Electro-thermal damage model of one inverter unit (IGBT–diode pair)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="450" x="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;perimeterSpacing=2;imageAspect=1;backgroundOutline=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Calibri&quot;&gt;Modified IEEE 9-bus system with a grid-forming inverter and data center load&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="120" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Calibri&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0);&quot;&gt;PowerFactory&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="90" x="145" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font face=&quot;Calibri&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Hardware specs&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="15" width="90" x="145" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;perimeterSpacing=2;imageAspect=1;backgroundOutline=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Calibri&quot;&gt;Infineon FF1800R23IE7, Fischer LA 10 150 24 heat sink&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="120" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font face=&quot;Calibri&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Datacenter Load&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="15" width="84" x="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;perimeterSpacing=2;imageAspect=1;backgroundOutline=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Image generation and LLM training on H100 and B200, scaled from measured 20 ms traces to 100 MW (64 scenarios)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="100" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="1iWg5GS5U5XreUzpGTdS-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="40" as="sourcePoint" />
+            <mxPoint x="120" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6VwaNsiSKVkrIF0gYBp-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="415" y="62" as="sourcePoint" />
+            <mxPoint x="435" y="62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6VwaNsiSKVkrIF0gYBp-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="565" y="62" as="sourcePoint" />
+            <mxPoint x="585" y="62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6VwaNsiSKVkrIF0gYBp-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="34.5" as="sourcePoint" />
+            <mxPoint x="285" y="34.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6VwaNsiSKVkrIF0gYBp-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="84.5" as="sourcePoint" />
+            <mxPoint x="285" y="84.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
